@@ -7,6 +7,8 @@
 24 - fonctions lies aux equations non linéaires
 430 - fonctions liés aux systemes lineaires
 NB: A METTRE À JOUR APRES CHAQUE OPERATION EFFECTUE SUR LE CODE */
+
+/* En tout cas, ça ne volait pas dutout haut mais on va s'en sortir.*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

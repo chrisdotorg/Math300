@@ -6,7 +6,7 @@ INCLUDES = -Iinclude
 SRC = $(wildcard src/*.c)
 APP_SRC = $(filter-out src/main.c,$(SRC))
 
-TARGET = numerical_analysis
+TARGET = mth300
 TEST_ROOT = test_root_finding
 
 .PHONY: all clean test debug
