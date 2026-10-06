@@ -1,0 +1,22 @@
+# Compiled binaries
+numerical_analysis
+test_root_finding
+
+# Build directories
+build/
+bin/
+obj/
+
+# Debug / profiling
+*.o
+*.out
+*.gcda
+*.gcno
+*.prof
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
